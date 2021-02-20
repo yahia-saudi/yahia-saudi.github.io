@@ -1,2 +1,48 @@
-# yahia-saudi.github.io
-This repository is for everyone
+‎<!DOCTYPE html>‎
+‎<html lang="en">‎
+‎<head>‎
+‎<title>Final Project</title>‎
+‎<h1> Mohammad Yahia Al-Saudi </h1>‎
+‎</head> ‎
+‎<body>‎
+‎<nav>‎
+‎<a href=" http:// www.coursera.org ">coursera</a>‎
+‎<a href = " http://www.umich.edu" > University Of Michgian</a> ‎
+‎<a href = " http://www.facebook.com"> Facebook</a>‎
+‎<a href = "http://www.youtube.com"> Youtube</a>‎
+
+‎</nav>‎
+‎‎
+‎<h2> My Favorite Foods</h2>‎
+‎<p> <ul>‎	
+‎<li> Hony Cake</li>‎
+	‎<li>Mango</li>‎
+	‎<li>Rise</li>‎
+	‎<li>Apple</li>‎
+‎</ul> </p>‎
+‎
+‎<h2>  Achievements   </h2>‎
+‎<div>‎
+‎<label for ="file"> Progerss in this course (100%) </label>‎
+‎<progress id = ‎‏"‏file‏"‏‎  Value = "100" max = "100" > </progress>‎</br>‎
+
+‎<label for ="file2"> Progerss in this Specialization capstone (20%) </label>‎
+‎<progress id = ‎‏"‏file2‎‏"‏‎  Value = "20" max = "100" > </progress>‎</br>‎
+‎<label for ="file3"> Progerss in this Life goals (75%) </label>‎
+‎<progress id = ‎‏"‏file3‎‏"‏‎  Value = "75" max = "100" > </progress>‎
+
+‎</div>‎
+‎<h2> More About Me</h2>‎
+‎<details>‎
+‎<summary>My Childhood</summary>‎
+‎<p>‎
+I don't have much to say, I grew up in Syria, and then came the war.</br> I stopped learning, ‎‎but I am here in Coursera, I am very glad and lucky that the Syrian Youth Assembly  agreed to ‎‎include me in its scholarship</p>‎
+‎</details>‎
+	
+‎</body>‎
+
+‎<footer>‎
+‎ <a href ="http://www.intro-webdesign.com/images/newlogo.png"><img src = ‎‎‎"image11201.png" alt = "this image is WD4E in a black color"></a>‎
+‎<p> this page was created by Mohammad Yahia Al-Saudi & Collen Van Lent . To learn ‎more about web design visit <a href =" http://www.intro-webdesign.com."> Intro to ‎Web Design</a>‎
+‎</footer>‎
+‎</html>‎
