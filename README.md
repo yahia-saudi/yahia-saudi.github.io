@@ -32,7 +32,7 @@
 ‎<progress id = ‎‏"‏file3‎‏"‏‎  Value = "75" max = "100" > </progress>‎
 
 ‎</div>‎
-‎<h2> More About Me</h2>‎
+‎<h2> More About Me</h2>‎  
 ‎<details>‎
 ‎<summary>My Childhood</summary>‎
 ‎<p>‎
